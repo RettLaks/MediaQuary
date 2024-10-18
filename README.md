@@ -1,7 +1,7 @@
-<h1 align="center">Netflix login side</h1> 
+<h1 align="center">Responsiv Nettside</h1> 
 <div align="center"> 
     <h3> 
-        <a href="sjalabaisen.github.io/test/"> Lenken til prosjektet 
+        <a href="sjalabaisen.github.io/MediaQuary/"> Lenken til prosjektet 
         </a> 
     </h3> 
 </div> 
